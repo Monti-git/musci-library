@@ -7,7 +7,7 @@ const fetcher = async (callback) => {
     }
 }
 
-//maybe the methods neet to have .exec() at the end.
+//maybe the methods need to have .exec() at the end.
 exports.inviteUser = async (req, res) => {
     var invitationBody = req.body;
     var { email } = invitationBody;
