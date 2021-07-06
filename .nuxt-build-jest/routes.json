@@ -1,0 +1,23 @@
+[
+  {
+    "name": "artist-id",
+    "path": "/artist/:id",
+    "component": "C:\\\\Users\\\\Victor\\\\Documents\\\\Victor\\\\HP\\\\music-library\\\\pages\\\\artist\\\\_id\\\\index.vue",
+    "chunkName": "pages/artist/_id/index",
+    "_name": "_44e59aa6"
+  },
+  {
+    "name": "artist-id-albumid",
+    "path": "/artist/:id?/:albumid",
+    "component": "C:\\\\Users\\\\Victor\\\\Documents\\\\Victor\\\\HP\\\\music-library\\\\pages\\\\artist\\\\_id\\\\_albumid.vue",
+    "chunkName": "pages/artist/_id/_albumid",
+    "_name": "_1dc7a700"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\Victor\\\\Documents\\\\Victor\\\\HP\\\\music-library\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_c89bdc98"
+  }
+]
