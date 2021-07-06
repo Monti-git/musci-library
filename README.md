@@ -19,6 +19,9 @@ $ npm run generate
 #run tests
 $ npm run test
 ```
+**********************
+The second task of the test is in the files code-snippet.js and code-snippet-refactor.js
+**********************
 
 This project uses the itunes search api to fetch artists, albums and songs.
 It is build with Nuxt Js as a Framework on top of Vue Js.
