@@ -83,7 +83,7 @@ export default {
     albumq: function (newQ, oldQ) {
       if (newQ != '') {
         const filteredAlbums = this.artistAlbums.filter((album) =>
-          album.collectionName.toLowerCase().includes(newQ)
+          album.collectionName.toLowerCase().includes(newQ.toLowerCase())
         )
         this.artistAlbumsCopy = filteredAlbums
       } else {
